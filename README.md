@@ -1,2 +1,2 @@
-# Test
-Classification from AirBnB dataset
+# Prediction
+AirBnB dataset
